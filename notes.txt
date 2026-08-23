@@ -1,3 +1,1 @@
-"Hello Git" 
-"Second line" 
-"Feature A content" 
+"Feature B says: line 2 is now DIFFERENT" 
